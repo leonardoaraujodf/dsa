@@ -1,2 +1,5 @@
-# dsa
-Data Structures and Algorithms Exercices
+# DSA - Data Structures and Algorithms Exercices
+
+## Arrays
+### Two Pointers
+### Sliding Window
