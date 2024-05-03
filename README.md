@@ -141,7 +141,17 @@ int findLength(string s) {
         if (s[right] == '0') {
             curr++;
         }
+
+        while (curr > 1) {
+            if (s[left] == '0') {
+                curr--;
+            }
+            left++;
+        }
+        ans = max(ans, right - left + 1);
     }
+
+    return ans;
 }
 ```
 
@@ -151,6 +161,26 @@ Given an array of positive integers `nums` and an integer k, return the number o
 For example, given the input `nums = [10, 5, 2, 6]`, `k = 100`, the answer is `8`. The subarrays with products less than `k` are:
 
 `[10], [5], [2], [6], [10, 5], [5, 2], [2, 6], [5, 2, 6]`
+
+```c
+int numSubArrays(vector<int> &nums, int k) {
+    if (k <= 1) {
+        return 0;
+    }
+
+    int product = 1, left = 0, ans = 0;
+    while (left < right) {
+        product *= nums[right];
+        while (product >= k) {
+            product /= nums[left];
+            left++;
+        }
+        ans += right - left + 1;
+    }
+
+    return ans;
+}
+```
 
 ### Prefix Sum
 Example 1: Given an integer array `nums`, an array `queries` where `queries[i] = [x, y]` and an integer `limit`, return a boolean array that represents the answer to each query. A query is `true` if the sum of the subarray from `x` to `y` is less than `limit`. or `false` otherwise.
