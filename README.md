@@ -14,3 +14,4 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [2389: Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | Prefix Sum, Binary Search | [Here](solutions/cpp/2389/solution.cpp) | In progress |
 | [875: Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Binary Search | [Here](solutions/cpp/875/solution.cpp) | In progress |
 | [1631: Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Binary Search, DFS/BFS or Dijkstra | [Binary Search and DFS](solutions/cpp/1631/solution.cpp) | In progress |
+| [198: Houser Robber](https://leetcode.com/problems/house-robber/submissions/)| Dynamic Programming (1D) | [Here](solutions/cpp/198/solution.cpp) | [Here](solutions/golang/198/solution.go) |
