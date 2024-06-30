@@ -17,4 +17,4 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [875: Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Binary Search | [Here](solutions/cpp/875/solution.cpp) | In progress |
 | [1631: Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Binary Search, DFS/BFS or Dijkstra | [Binary Search and DFS](solutions/cpp/1631/solution.cpp) | In progress |
 | [198: Houser Robber](https://leetcode.com/problems/house-robber/submissions/)| Dynamic Programming (1D) | [Here](solutions/cpp/198/solution.cpp) | [Here](solutions/golang/198/solution.go) |
-|[300: Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| Dynamic Programming (1D). Improvement: Use binary search for the search space | [Here](solutions/cpp/300/solution.cpp) | [Here](solutions/golang/300/solution.go) |
+|[300: Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| Dynamic Programming (1D). Improvement: Use binary search in a subsequence. | [Here](solutions/cpp/300/solution.cpp) | [Here](solutions/golang/300/solution.go) |
