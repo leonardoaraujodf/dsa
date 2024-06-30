@@ -19,3 +19,4 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [198: Houser Robber](https://leetcode.com/problems/house-robber/submissions/)| Dynamic Programming (1D) | [Here](solutions/cpp/198/solution.cpp) | [Here](solutions/golang/198/solution.go) |
 |[300: Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| Dynamic Programming (1D). Improvement: Use binary search in a subsequence. | [Here](solutions/cpp/300/solution.cpp) | [Here](solutions/golang/300/solution.go) |
 |[2140: Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)| Dynamic Programming (1D) | [Here](solutions/cpp/2140/solution.cpp) | [Here](solutions/golang/2140/solution.go) |
+| [1143: Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Dynamic Programming (2D) | [Here](solutions/cpp/1143/solution.cpp) | [Here](solutions/golang/1143/solution.go) |
