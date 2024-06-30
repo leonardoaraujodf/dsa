@@ -9,10 +9,12 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | Problem Number | Strategy | Solution (cpp) | Solution (Golang) |
 |----------------|----------|----------------|-------------------|
 | [167: Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two pointers | [Here](solutions/cpp/167/solution.cpp) | [Here](solutions/golang/167/solution.go) |
+| [1: Two Sum](https://leetcode.com/problems/two-sum/) | Hash Table | [Here](solutions/cpp/1/solution.cpp) | [Here](solutions/golang/1/solution.go) |
+| [15: 3Sum](https://leetcode.com/problems/3sum/) | Two Pointers. Solve Two Sum II first. | [Here](solutions/cpp/15/solution.cpp) | [Here](solutions/golang/15/solution.go) |
 | [704: Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Here](solutions/cpp/704/solution.cpp) | In progress |
 | [35: Search Insertion Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | [Here](solutions/cpp/35/solution.cpp) | In progress |
 | [2389: Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | Prefix Sum, Binary Search | [Here](solutions/cpp/2389/solution.cpp) | In progress |
 | [875: Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Binary Search | [Here](solutions/cpp/875/solution.cpp) | In progress |
 | [1631: Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Binary Search, DFS/BFS or Dijkstra | [Binary Search and DFS](solutions/cpp/1631/solution.cpp) | In progress |
 | [198: Houser Robber](https://leetcode.com/problems/house-robber/submissions/)| Dynamic Programming (1D) | [Here](solutions/cpp/198/solution.cpp) | [Here](solutions/golang/198/solution.go) |
-|[300: Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| Dynamic Programming (1D). Improvement: Use binary search for the search space | [Here]() | [Here]() |
+|[300: Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| Dynamic Programming (1D). Improvement: Use binary search for the search space | [Here](solutions/cpp/300/solution.cpp) | [Here](solutions/golang/300/solution.go) |
