@@ -10,16 +10,14 @@ public:
         memo = vector(prices.size(), vector(2, vector(k + 1, -1)));
         return dp(0, 0, k);
     }
-    
+
     int dp(int i, int holding, int remain) {
         if (i == prices.size() || remain == 0) {
             return 0;
         }
-        
         if (memo[i][holding][remain] != -1) {
             return memo[i][holding][remain];
         }
-        
         // Skip
         int ans = dp(i + 1, holding, remain);
         if (holding == 1) {
@@ -29,11 +27,9 @@ public:
             // Buy
             ans = max(ans, -prices[i] + dp(i + 1, true, remain));
         }
-        
         memo[i][holding][remain] = ans;
         return ans;
     }
-    
     // Bottom up approach
     // Time complexity: O(n * k). holding is constant, n comes from i, k comes from remain
     // Space complexity: O(n * k)
@@ -49,12 +45,10 @@ public:
                     } else {
                         ans = max(ans, -prices[i] + dp[i + 1][1][remain]);
                     }
-                    
                     dp[i][holding][remain] = ans;
                 }
             }
         }
-        
         return dp[0][0][k];
     }
 };

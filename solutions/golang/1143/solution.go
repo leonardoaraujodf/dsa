@@ -13,9 +13,6 @@ func longestCommonSubsequence2(text1 string, text2 string) int {
 	return dp(0, 0, memo, text1, text2)
 }
 
-// Bottom up - Remember to start at the base cases
-// Time complexity: O(n * m)
-// Space complexity: O(n * m)
 func dp(i int, j int, memo [][]int, text1 string, text2 string) int {
 	if i == len(text1) || j == len(text2) {
 		return 0
@@ -35,6 +32,9 @@ func dp(i int, j int, memo [][]int, text1 string, text2 string) int {
 	return ans
 }
 
+// Bottom up - Remember to start at the base cases
+// Time complexity: O(n * m)
+// Space complexity: O(n * m)
 func longestCommonSubsequence(text1 string, text2 string) int {
 	n := len(text1)
 	m := len(text2)
