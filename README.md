@@ -26,3 +26,5 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 |[309: Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Dynamic Programming (2D) | [Here](solutions/cpp/309/solution.cpp) | [Here](solutions/golang/309/solution.go) |
 |[62: Unique Paths](https://leetcode.com/problems/unique-paths/)| Dynamic Programming (on matrix) | [Here](solutions/cpp/62/solution.cpp) | [Here](solutions/golang/62/solution.go) |
 |[64: Unique Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/64/solution.cpp) | [Here](solutions/golang/64/solution.go) |
+|[63: Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/63/solution.cpp) | [Here](solutions/golang/63/solution.go) |
+| [931: Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/931/solution.cpp) | [Here](solutions/golang/931/solution.go) |
