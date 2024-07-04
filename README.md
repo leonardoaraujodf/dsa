@@ -24,5 +24,5 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 |[2218: Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)| Dynamic Programming (2D) | [Here](solutions/cpp/2218/solution.cpp) | [Here](solutions/golang/2218/solution.go) |
 |[714: Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)| Dynamic Programming (2D) | [Here](solutions/cpp/714/solution.cpp) | [Here](solutions/golang/714/solution.go) |
 |[309: Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Dynamic Programming (2D) | [Here](solutions/cpp/309/solution.cpp) | [Here](solutions/golang/309/solution.go) |
-|[62: Unique Paths](https://leetcode.com/problems/unique-paths/)| Dynamic Programming (on matrix) | [Here](solutions/cpp/62/solution.cpp) | [In progress](solutions/golang/62/solution.go) |
-|[64: Unique Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/64/solution.cpp) | [In progress](solutions/golang/64/solution.go) |
+|[62: Unique Paths](https://leetcode.com/problems/unique-paths/)| Dynamic Programming (on matrix) | [Here](solutions/cpp/62/solution.cpp) | [Here](solutions/golang/62/solution.go) |
+|[64: Unique Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/64/solution.cpp) | [Here](solutions/golang/64/solution.go) |
