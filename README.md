@@ -11,6 +11,7 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [167: Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two pointers | [Here](solutions/cpp/167/solution.cpp) | [Here](solutions/golang/167/solution.go) |
 | [1: Two Sum](https://leetcode.com/problems/two-sum/) | Hash Table | [Here](solutions/cpp/1/solution.cpp) | [Here](solutions/golang/1/solution.go) |
 | [15: 3Sum](https://leetcode.com/problems/3sum/) | Two Pointers. Solve Two Sum II first. | [Here](solutions/cpp/15/solution.cpp) | [Here](solutions/golang/15/solution.go) |
+|[2058: Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)| Linked List and Two pointers | [Here](solutions/cpp/2058/solution.cpp) | [Here](solutions/golang/2058/solution.go) |
 | [704: Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Here](solutions/cpp/704/solution.cpp) | In progress |
 | [35: Search Insertion Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | [Here](solutions/cpp/35/solution.cpp) | In progress |
 | [2389: Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | Prefix Sum, Binary Search | [Here](solutions/cpp/2389/solution.cpp) | In progress |
@@ -26,5 +27,5 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 |[309: Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Dynamic Programming (2D) | [Here](solutions/cpp/309/solution.cpp) | [Here](solutions/golang/309/solution.go) |
 |[62: Unique Paths](https://leetcode.com/problems/unique-paths/)| Dynamic Programming (on matrix) | [Here](solutions/cpp/62/solution.cpp) | [Here](solutions/golang/62/solution.go) |
 |[64: Unique Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/64/solution.cpp) | [Here](solutions/golang/64/solution.go) |
-|[63: Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/63/solution.cpp) | [Here](solutions/golang/63/solution.go) |
-| [931: Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/931/solution.cpp) | [Here](solutions/golang/931/solution.go) |
+|[63: Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/63/solution.cpp) | [In Progress](solutions/golang/63/solution.go) |
+| [931: Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/931/solution.cpp) | [In Progress](solutions/golang/931/solution.go) |
