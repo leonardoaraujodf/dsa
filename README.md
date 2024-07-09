@@ -13,6 +13,7 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [977: Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Two pointers | [Here](solutions/cpp/977/solution.cpp) | [Here](solutions/golang/977/solution.go) |
 | [713: Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Sliding Window | [Here](solutions/cpp/713/solution.cpp) | [Here](solutions/golang/713/solution.go) |
 | [643: Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Sliding Window | [Here](solutions/cpp/643/solution.cpp) | [Here](solutions/golang/643/solution.go) |
+| [1004: Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Sliding Window | [Here](solutions/cpp/1004/solution.cpp) | [Here](solutions/golang/1004/solution.go) |
 | [167: Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two pointers | [Here](solutions/cpp/167/solution.cpp) | [Here](solutions/golang/167/solution.go) |
 | [1: Two Sum](https://leetcode.com/problems/two-sum/) | Hash Table | [Here](solutions/cpp/1/solution.cpp) | [Here](solutions/golang/1/solution.go) |
 | [15: 3Sum](https://leetcode.com/problems/3sum/) | Two Pointers. Solve Two Sum II first. | [Here](solutions/cpp/15/solution.cpp) | [Here](solutions/golang/15/solution.go) |
