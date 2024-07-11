@@ -20,6 +20,7 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [1: Two Sum](https://leetcode.com/problems/two-sum/) | Hash Table | [Here](solutions/cpp/1/solution.cpp) | [Here](solutions/golang/1/solution.go) |
 | [15: 3Sum](https://leetcode.com/problems/3sum/) | Two Pointers. Solve Two Sum II first. | [Here](solutions/cpp/15/solution.cpp) | [Here](solutions/golang/15/solution.go) |
 |[2058: Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)| Linked List and Two pointers | [Here](solutions/cpp/2058/solution.cpp) | [Here](solutions/golang/2058/solution.go) |
+| [237: Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Linked List traversal | [Here](solutions/cpp/237/solution.cpp) | [Here](solutions/golang/237/solution.go) |
 |[128: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| Hash Set. | [Here](solutions/cpp/128/solution.cpp) | [Here](solutions/golang/128/solution.go) |
 | [704: Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Here](solutions/cpp/704/solution.cpp) | In progress |
 | [35: Search Insertion Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | [Here](solutions/cpp/35/solution.cpp) | In progress |
