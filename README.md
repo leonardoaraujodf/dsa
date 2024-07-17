@@ -27,6 +27,7 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 |[2058: Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)| Linked List and Two pointers | [Here](solutions/cpp/2058/solution.cpp) | [Here](solutions/golang/2058/solution.go) |
 | [237: Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Linked List traversal | [Here](solutions/cpp/237/solution.cpp) | [Here](solutions/golang/237/solution.go) |
 |[128: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| Hash Set. | [Here](solutions/cpp/128/solution.cpp) | [Here](solutions/golang/128/solution.go) |
+| [547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Graph: DFS | [Here](solutions/cpp/547/solution.cpp) | [Here](solutions/golang/547/solution.go) |
 | [704: Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Here](solutions/cpp/704/solution.cpp) | In progress |
 | [35: Search Insertion Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | [Here](solutions/cpp/35/solution.cpp) | In progress |
 | [2389: Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | Prefix Sum, Binary Search | [Here](solutions/cpp/2389/solution.cpp) | In progress |
