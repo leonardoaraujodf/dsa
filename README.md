@@ -18,6 +18,8 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [1004: Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | Sliding Window | [Here](solutions/cpp/1004/solution.cpp) | [Here](solutions/golang/1004/solution.go) |
 | [167: Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Two pointers | [Here](solutions/cpp/167/solution.cpp) | [Here](solutions/golang/167/solution.go) |
 | [443: String Compression](https://leetcode.com/problems/string-compression/) | Regular array traversal | [Here](solutions/cpp/443/solution.cpp) | [Here](solutions/golang/443/solution.go) |
+| [340: Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | Sliding Window with Hash Table | [Here](solutions/cpp/340/solution.cpp) | [In progress](solutions/golang/340/solution.go) |
+| [1941: Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | Hash Table and Hash Set | [Here](solutions/cpp/1941/solution.cpp) | [In Progress](solutions/golang/1941/solution.go) |
 | [1: Two Sum](https://leetcode.com/problems/two-sum/) | Hash Table | [Here](solutions/cpp/1/solution.cpp) | [Here](solutions/golang/1/solution.go) |
 | [15: 3Sum](https://leetcode.com/problems/3sum/) | Two Pointers. Solve Two Sum II first. | [Here](solutions/cpp/15/solution.cpp) | [Here](solutions/golang/15/solution.go) |
 | [141: Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Two pointers on linked list. | [Here](solutions/cpp/141/solution.cpp) | [Here](solutions/golang/141/solution.go) |
@@ -33,6 +35,7 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [198: Houser Robber](https://leetcode.com/problems/house-robber/submissions/)| Dynamic Programming (1D) | [Here](solutions/cpp/198/solution.cpp) | [Here](solutions/golang/198/solution.go) |
 |[300: Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| Dynamic Programming (1D). Improvement: Use binary search in a subsequence. | [Here](solutions/cpp/300/solution.cpp) | [Here](solutions/golang/300/solution.go) |
 |[2140: Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)| Dynamic Programming (1D) | [Here](solutions/cpp/2140/solution.cpp) | [Here](solutions/golang/2140/solution.go) |
+| [322: Coin Change](https://leetcode.com/problems/coin-change/) | Dynamic Programming (1D) | [Here](solutions/cpp/322/solution.cpp) | [Here](solutions/golang/322/solution.go) |
 | [1143: Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Dynamic Programming (2D) | [Here](solutions/cpp/1143/solution.cpp) | [Here](solutions/golang/1143/solution.go) |
 |[188: Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| Dynamic Programming (3D) | [Here](solutions/cpp/188/solution.cpp) | [Here](solutions/golang/188/solution.go) |
 |[2218: Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)| Dynamic Programming (2D) | [Here](solutions/cpp/2218/solution.cpp) | [Here](solutions/golang/2218/solution.go) |
@@ -42,3 +45,10 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 |[64: Unique Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/64/solution.cpp) | [Here](solutions/golang/64/solution.go) |
 |[63: Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/63/solution.cpp) | [In Progress](solutions/golang/63/solution.go) |
 | [931: Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Dynamic Programming (on matrix) | [Here](solutions/cpp/931/solution.cpp) | [In Progress](solutions/golang/931/solution.go) |
+
+## Design Problems
+
+| Problem Number | Strategy | Solution (cpp) | Solution (Golang) |
+|----------------|----------|----------------|-------------------|
+| [642: Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | Use the Trie data structure in conjunction with a min heap and hash map. | [Here](solutions/cpp/642/solution.cpp) | [In Progress](solutions/golang/642/solution.go) |
+
