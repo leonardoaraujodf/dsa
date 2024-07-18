@@ -28,6 +28,7 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [237: Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Linked List traversal | [Here](solutions/cpp/237/solution.cpp) | [Here](solutions/golang/237/solution.go) |
 |[128: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| Hash Set. | [Here](solutions/cpp/128/solution.cpp) | [Here](solutions/golang/128/solution.go) |
 | [547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Graph: DFS | [Here](solutions/cpp/547/solution.cpp) | [Here](solutions/golang/547/solution.go) |
+| [200: Number of Islands](https://leetcode.com/problems/number-of-islands/)| Graph: DFS | [Here](solutions/cpp/200/solution.cpp) | [Here](solutions/golang/200/solution.go) |
 | [704: Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Here](solutions/cpp/704/solution.cpp) | In progress |
 | [35: Search Insertion Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | [Here](solutions/cpp/35/solution.cpp) | In progress |
 | [2389: Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | Prefix Sum, Binary Search | [Here](solutions/cpp/2389/solution.cpp) | In progress |
