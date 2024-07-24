@@ -54,5 +54,6 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 
 | Problem Number | Strategy | Solution (cpp) | Solution (Golang) |
 |----------------|----------|----------------|-------------------|
-| [642: Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | Use the Trie data structure in conjunction with a min heap and hash map. | [Here](solutions/cpp/642/solution.cpp) | [In Progress](solutions/golang/642/solution.go) |
+| [642: Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | Use the Trie data structure for the prefixes with a min heap to account for the hot sentences at each Trie node. Also use a hash map to count the occurrences of each sentence so far. | [Here](solutions/cpp/642/solution.cpp) | [In Progress](solutions/golang/642/solution.go) |
+| [146: LRU Cache](https://leetcode.com/problems/lru-cache/) | Double linked list with sentinel nodes and hash map | [Here](solutions/cpp/146/solution.cpp) | [Here](solutions/golang/146/solution.go) |
 
