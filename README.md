@@ -32,7 +32,7 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [200: Number of Islands](https://leetcode.com/problems/number-of-islands/)| Graph: DFS | [Here](solutions/cpp/200/solution.cpp) | [Here](solutions/golang/200/solution.go) |
 | [1091: Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Graph: BFS | [Here](solutions/cpp/1091/solution.cpp) | [Here](solutions/golang/1091/solution.go) |
 | [863: All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Binary Tree DFS and Graph BFS | [Here](solutions/cpp/863/solution.cpp) | [Here](solutions/golang/863/solution.go) |
-| [704: Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Here](solutions/cpp/704/solution.cpp) | In progress |
+| [704: Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Here](solutions/cpp/704/solution.cpp) | [Here](solutions/golang/704/solution.go) |
 | [35: Search Insertion Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | [Here](solutions/cpp/35/solution.cpp) | In progress |
 | [2389: Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | Prefix Sum, Binary Search | [Here](solutions/cpp/2389/solution.cpp) | In progress |
 | [875: Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Binary Search | [Here](solutions/cpp/875/solution.cpp) | In progress |
