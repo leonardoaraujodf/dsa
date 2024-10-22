@@ -38,7 +38,7 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [35: Search Insertion Position](https://leetcode.com/problems/search-insert-position/) | Binary Search | [Here](solutions/cpp/35/solution.cpp) | In progress |
 | [2389: Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | Prefix Sum, Binary Search | [Here](solutions/cpp/2389/solution.cpp) | In progress |
 | [875: Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Binary Search | [Here](solutions/cpp/875/solution.cpp) | [Here](solutions/golang/875/solution.go) |
-| [1631: Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Binary Search, DFS/BFS or Dijkstra | [Binary Search and DFS](solutions/cpp/1631/solution.cpp) | In progress |
+| [1631: Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Binary Search, DFS/BFS or Dijkstra | [Here](solutions/cpp/1631/solution.cpp) | [Here](solutions/golang/1631/solution.go) |
 | [198: Houser Robber](https://leetcode.com/problems/house-robber/submissions/)| Dynamic Programming (1D) | [Here](solutions/cpp/198/solution.cpp) | [Here](solutions/golang/198/solution.go) |
 |[300: Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| Dynamic Programming (1D). Improvement: Use binary search in a subsequence. | [Here](solutions/cpp/300/solution.cpp) | [Here](solutions/golang/300/solution.go) |
 |[2140: Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)| Dynamic Programming (1D) | [Here](solutions/cpp/2140/solution.cpp) | [Here](solutions/golang/2140/solution.go) |
