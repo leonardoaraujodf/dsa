@@ -41,6 +41,8 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [1631: Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | Binary Search, DFS/BFS or Dijkstra | [Here](solutions/cpp/1631/solution.cpp) | [Here](solutions/golang/1631/solution.go) |
 | [1870: Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)| Binary Search | [Here](solutions/cpp/1870/solution.cpp) | [Here](solutions/golang/1870/solution.go) |
 | [1283: Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)| Binary Search | [Here](solutions/cpp/1283/solution.cpp) | [Here](solutions/golang/1283/solution.go) |
+| [1281: Find Chocolate](https://leetcode.com/problems/divide-chocolate/)| Binary Search | [Here](solutions/cpp/1281/solution.cpp) | [Here](solutions/golang/1281/solution.go) |
+| [410: Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)| Binary Search | [Here](solutions/cpp/410/solution.cpp) | [Here](solutions/golang/410/solution.go) |
 | [198: Houser Robber](https://leetcode.com/problems/house-robber/submissions/)| Dynamic Programming (1D) | [Here](solutions/cpp/198/solution.cpp) | [Here](solutions/golang/198/solution.go) |
 |[300: Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| Dynamic Programming (1D). Improvement: Use binary search in a subsequence. | [Here](solutions/cpp/300/solution.cpp) | [Here](solutions/golang/300/solution.go) |
 |[2140: Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)| Dynamic Programming (1D) | [Here](solutions/cpp/2140/solution.cpp) | [Here](solutions/golang/2140/solution.go) |
