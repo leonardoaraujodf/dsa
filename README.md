@@ -35,6 +35,7 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 | [547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Graph: DFS | [Here](solutions/cpp/547/solution.cpp) | [Here](solutions/golang/547/solution.go) |
 | [200: Number of Islands](https://leetcode.com/problems/number-of-islands/)| Graph: DFS | [Here](solutions/cpp/200/solution.cpp) | [Here](solutions/golang/200/solution.go) |
 | [1466: Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)| Graph: DFS | [Here](solutions/cpp/1466/solution.cpp) | [Here](solutions/golang/1466/solution.go) |
+| [841: Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | Graph: DFS | [Here](solutions/cpp/841/solution.cpp) | [Here](solutions/golang/841/solution.go) |
 | [1091: Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Graph: BFS | [Here](solutions/cpp/1091/solution.cpp) | [Here](solutions/golang/1091/solution.go) |
 | [863: All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Binary Tree DFS and Graph BFS | [Here](solutions/cpp/863/solution.cpp) | [Here](solutions/golang/863/solution.go) |
 | [704: Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Here](solutions/cpp/704/solution.cpp) | [Here](solutions/golang/704/solution.go) |
