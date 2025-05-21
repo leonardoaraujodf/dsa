@@ -28,8 +28,13 @@ If you haven't study about the topics one by one, don't just go randomly selecti
 |[2058: Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)| Linked List and Two pointers | [Here](solutions/cpp/2058/solution.cpp) | [Here](solutions/golang/2058/solution.go) |
 | [237: Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Linked List traversal | [Here](solutions/cpp/237/solution.cpp) | [Here](solutions/golang/237/solution.go) |
 |[128: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| Hash Set. | [Here](solutions/cpp/128/solution.cpp) | [Here](solutions/golang/128/solution.go) |
+| [104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree: DFS | [Here](solutions/cpp/104/solution.cpp) | In progress |
+| [112: Path Sum](https://leetcode.com/problems/path-sum/) | Binary Tree: DFS | [Here](solutions/cpp/112/solution.cpp) | In progress |
+| [1448: Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) | Binary Tree: DFS | [Here](solutions/cpp/1448/solution.cpp) | In progress |
+| [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | Binary Tree: DFS | [Here](solutions/cpp/236/solution.cpp) | In progress |
 | [547: Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Graph: DFS | [Here](solutions/cpp/547/solution.cpp) | [Here](solutions/golang/547/solution.go) |
 | [200: Number of Islands](https://leetcode.com/problems/number-of-islands/)| Graph: DFS | [Here](solutions/cpp/200/solution.cpp) | [Here](solutions/golang/200/solution.go) |
+| [1466: Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)| Graph: DFS | [Here](solutions/cpp/1466/solution.cpp) | [Here](solutions/golang/1466/solution.go) |
 | [1091: Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Graph: BFS | [Here](solutions/cpp/1091/solution.cpp) | [Here](solutions/golang/1091/solution.go) |
 | [863: All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | Binary Tree DFS and Graph BFS | [Here](solutions/cpp/863/solution.cpp) | [Here](solutions/golang/863/solution.go) |
 | [704: Binary Search](https://leetcode.com/problems/binary-search/) | Binary Search | [Here](solutions/cpp/704/solution.cpp) | [Here](solutions/golang/704/solution.go) |
